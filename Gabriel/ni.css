@@ -1,0 +1,12 @@
+.container{
+    align-items: center;
+    justify-content: center;    
+    margin-left: 45%;
+    margin-top: 22vw;
+}
+body{
+display: flex;
+}
+select{
+    border: 2px;
+}
